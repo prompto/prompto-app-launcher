@@ -1,0 +1,29 @@
+.navbar-fixed-top {
+    border: 0;
+}
+
+.thumbnail {
+    width: 170px;
+    height: 230px;
+    box-sizing: content-box;
+}
+
+.thumbnail > img {
+    max-width: 160px;
+    max-height: 160px;
+}
+
+.thumbnail > .caption {
+    text-align: center;
+}
+
+.thumbnail > .caption > p {
+    margin-bottom: 0px;
+}
+
+.btn-group > .thumbnail > img {
+    max-width: 92px;
+    width: auto;
+    height: 92px;
+    borderRadius: 0;
+}
