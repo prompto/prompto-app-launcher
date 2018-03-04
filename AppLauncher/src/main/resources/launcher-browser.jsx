@@ -10,7 +10,10 @@ const moduleImage = {
 
 /* TODO remove this, it is for DEMO purpose only */
 const toolUrls = {
-    Factories: "http://localhost:8728/factories/index.html"
+    Factories: "http://localhost:8728/factories/index.html",
+    "Data stores": "http://localhost:8171/Data_stores/index.html",
+    Releases: "http://localhost:8996/releases/index.html",
+    Deployments: "http://localhost:9032/deployments/index.html"
 };
 
 
